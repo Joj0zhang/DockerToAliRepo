@@ -1,2 +1,2 @@
-homeassistant/home-assistant:2025.1
-v2ray/official
+# homeassistant/home-assistant:2025.1
+v2fly/v2fly-core
